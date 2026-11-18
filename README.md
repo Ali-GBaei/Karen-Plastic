@@ -16,7 +16,7 @@
 
 ---
 <div align="center">
-<img src="screenshots/Intro.webp" alt="پیش نمایش" width="90%" />
+  <img width="1920" height="1080" alt="Intro" src="https://github.com/user-attachments/assets/38f6d6ea-0607-4314-a4ad-00c7a31260ec" alt="پیش نمایش" width="90%"/>
 </div>
   
 ## درباره کارن پلاستیک
